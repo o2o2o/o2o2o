@@ -3,6 +3,7 @@
 
 
 <h2> I'm a Fullstack developer</h2>
+
 - 🔭 I’m currently working on MERN stack 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
