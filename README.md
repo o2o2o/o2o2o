@@ -12,3 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h2> My Skill's</h2>
+
+- Node.js
+- React.js
+- MongoDB
+- MySQL
