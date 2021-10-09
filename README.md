@@ -19,7 +19,7 @@
 - MongoDB
 - MySQL
 
-[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt='linkedin' height='40' >](https://www.linkedin.com/in/https://github.com/o2o2o/)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt='linkedin' height='40' >]
 
 
 <h2> Let's Contact</h2>
