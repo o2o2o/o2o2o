@@ -1,4 +1,7 @@
-<div align="center">Hi there 👋, I'm Forhad [visit my portfolio](https://www.google.com)</div>
+<div align="center">
+  <h1>Hi there 👋, I'm Forhad</h1>
+  <a href="https://www.google.com">visit my portfolio</a>
+</div>
 
 [Link to Google](https://www.google.com)
 
