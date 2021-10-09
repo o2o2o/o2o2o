@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Forhad</h1>
-  <a href="https://www.google.com">visit my portfolio</a>
+  <h1>Hi there 👋, I'm Forhad <a href="https://www.google.com">visit my portfolio</a></h1>
 </div>
 
 [Link to Google](https://www.google.com)
