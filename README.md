@@ -1,8 +1,4 @@
-<div align="center">
- 
-<h1>Hi there 👋, I'm Forhad </h1>
-[visit my portfolio](https://www.google.com)
- </div>
+<div align="center">Hi there 👋, I'm Forhad [visit my portfolio](https://www.google.com)</div>
 
 **o2o2o/o2o2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
