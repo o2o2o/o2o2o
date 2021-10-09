@@ -1,4 +1,4 @@
- <h1 align="center" style="color:red;">Hi there 👋, I'm Forhad </h1>
+ <h1 align="center" color="red">Hi there 👋, I'm Forhad </h1>
 <a href="https://www.google.com">visit my portfolio</a>
 
 <h3>hiiiii</h3>
